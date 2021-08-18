@@ -1,0 +1,11 @@
+Mutation ID	Donor ID	Project	DNA change	Sample ID	Matched Sample ID	Platform	Verification Status
+MU91775666	DO9876	COAD-US	chr14:g.67859936C>T	SA105050,SA105050	SA105190,SA105190	Illumina HiSeq,Illumina GA sequencing	not tested,not tested
+MU91775693	DO9876	COAD-US	chr14:g.68260351G>A	SA105050,SA105050	SA105190,SA105190	Illumina GA sequencing,Illumina HiSeq	not tested,not tested
+MU91775606	DO9876	COAD-US	chr14:g.67849363C>A	SA105050	SA105190	Illumina HiSeq	not tested
+MU91775729	DO9876	COAD-US	chr14:g.68268861T>C	SA105050,SA105050	SA105190,SA105190	Illumina HiSeq,Illumina GA sequencing	not tested,not tested
+MU106583	DO9708	COAD-US	chr14:g.68252693A>G	SA100512,SA100512	SA100427,SA100427	Illumina GA sequencing,Illumina HiSeq	not tested,not tested
+MU93518	DO8898	COAD-US	chr14:g.68220437A>G	SA126289	SA126432	Illumina HiSeq	not tested
+MU91763369	DO8730	COAD-US	chr14:g.68249518G>T	SA121657	SA121787	Illumina HiSeq	not tested
+MU77689	DO8360	COAD-US	chr14:g.67940155G>A	SA111218,SA111218	SA111313,SA111313	Illumina HiSeq,Illumina GA sequencing	not tested,not tested
+MU91953438	DO8264	COAD-US	chr14:g.68274321C>A	SA108597	SA108692	Illumina HiSeq	not tested
+MU91953412	DO8264	COAD-US	chr14:g.68192797A>G	SA108597,SA108597	SA108692,SA108692	Illumina GA sequencing,Illumina HiSeq	not tested,not tested
